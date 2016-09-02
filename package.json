@@ -1,0 +1,30 @@
+{
+  "name": "ng-dnd",
+  "version": "0.0.0",
+  "description": "angularjs directives for html5 drag and drop events",
+  "main": "ng-dnd.js",
+  "repository": "attrs/ng-dnd",
+  "author": "joje <joje.attrs@gmail.com>",
+  "homepage": "https://github.com/attrs/ng-dnd",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "directives",
+    "draggable",
+    "dragandrop",
+    "dragndrop",
+    "drag",
+    "drop",
+    "dnd"
+  ],
+  "files": [
+    "*.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "angular": "^1.5.8"
+  }
+}
