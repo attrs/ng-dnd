@@ -25,6 +25,6 @@
     "README.md"
   ],
   "peerDependencies": {
-    "angular": "^1.5.8"
+    "angular": "1.x"
   }
 }
