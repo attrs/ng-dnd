@@ -1,6 +1,6 @@
 {
   "name": "ng-dnd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "angularjs directives for html5 drag and drop events",
   "main": "ng-dnd.js",
   "repository": "attrs/ng-dnd",
